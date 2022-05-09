@@ -1,3 +1,5 @@
-module junkeWu/fileszip
+module github.com/junkeWu/fileszip
 
 go 1.17
+
+require github.com/pkg/errors v0.9.1
